@@ -21,7 +21,7 @@
 - 😄 Pronouns: him/his/he
 - ⚡ Fun fact: I love locking dance 🕺 , tennis 🎾 , reading 📚 , ski ⛷ ~ and I hope to develop something which could change the 🌎 !!
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kwarksh &theme=default&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kwarksh&theme=default&show_icons=true)
 
 
 
