@@ -7,8 +7,8 @@
 - 📫 How to reach me: https://www.rocketpunch.com/@kwarksh
 - 😄 Pronouns: him/his/he
 - ⚡ Fun fact: I love locking dance 🕺 , tennis 🎾 , reading 📚 , ski ⛷ ~ and I hope to develop something which could change the 🌎 !!
+<a href="https://developer.android.com" target="_blank"><img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/></a>
 
-<a target="_blank"><img src="https://img.shields.io/badge/Android-#3DDC84?style=flat-square&logo=android&logoColor=white"/></a>
 <!--
 **kwarksh/kwarksh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
