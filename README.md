@@ -16,7 +16,6 @@
 <a href="https://developer.android.com" target="_blank"><img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/></a>
 <a href="https://developer.samsung.com/" target="_blank"><img src="https://img.shields.io/badge/Samsung-1428A0?style=flat-square&logo=Samsung&logoColor=white"/></a>
 
-- 💬 Ask me about Android
 - 📫 How to reach me: https://www.rocketpunch.com/@kwarksh
 - 😄 Pronouns: he/his
 - ⚡ Fun fact: I love locking dance 🕺 , tennis 🎾 , reading 📚 , ski ⛷ ~ and I hope to develop something which could change the 🌎 !!
