@@ -17,7 +17,7 @@
 
 - 📫 How to reach me: https://www.rocketpunch.com/@kwarksh
 - 😄 Pronouns: he/his
-- ⚡ Fun fact: I love locking dance 🕺 , tennis 🎾 , reading 📚 , ski ⛷ ~ and I hope to develop something which could change the 🌎 !!
+- ⚡ Fun fact: I love locking dance 🕺 , tennis 🎾 , reading 📚 , ski ⛷ ~ and I hope to develop something which could change the 🌎 !!!
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kwarksh&theme=default&show_icons=true)
 
