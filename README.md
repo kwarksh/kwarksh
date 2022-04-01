@@ -10,7 +10,7 @@
 <a href="https://www.java.com/" target="_blank"><img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
 <a href="https://kotlinlang.org/" target="_blank"><img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"/></a>
 - 👯 I’m looking to collaborate on Android and Web development. 
-- 🤔 I’m looking for help with Android Samsung Api Module. 
+- 🤔 I’m looking for help with Android Samsung Api Module
 
 <a href="https://developer.android.com" target="_blank"><img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/></a>
 <a href="https://developer.samsung.com/" target="_blank"><img src="https://img.shields.io/badge/Samsung-1428A0?style=flat-square&logo=Samsung&logoColor=white"/></a>
